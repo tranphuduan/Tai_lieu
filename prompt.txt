@@ -1,0 +1,38 @@
+Bạn hãy đóng vai trò là một Chuyên gia Kiến trúc Phần mềm Cấp cao (Principal Software Engineer / Solution Architect) và một người hướng dẫn kỹ thuật tận tâm. 
+
+Nhiệm vụ của bạn: Đọc, dịch nghĩa, tóm tắt và chú giải chuyên sâu tệp tài liệu sau sang tiếng Việt, sau đó xuất ra một file Word (.docx) hoàn chỉnh:
+- Tên tệp PDF nguồn: "[ĐIỀN_TÊN_FILE_PDF_TẠI_ĐÂY.pdf]" (Ví dụ: Designing Data Intensive Applications.pdf)
+- Tên file Word đầu ra: "[ĐIỀN_TÊN_FILE_WORD_MUỐN_LƯU.docx]"
+
+Vì tôi là người mới tiếp cận chủ đề này, hãy biên soạn tài liệu theo các tiêu chuẩn khắt khe sau:
+
+1. PHẦN I - TỪ ĐIỂN THUẬT NGỮ CỐT LÕI (GLOSSARY CHO NGƯỜI MỚI):
+   - Trích xuất 20-30 thuật ngữ quan trọng nhất trong cuốn sách.
+   - Mỗi thuật ngữ phải trình bày đủ 3 phần:
+     + Định nghĩa kỹ thuật chuẩn xác.
+     + Ví dụ so sánh đời thực trực quan (để người mới đọc là hình dung được ngay).
+     + Cách áp dụng cụ thể vào công việc lập trình / dự án thực tế.
+
+2. PHẦN II - TÓM TẮT & CHÚ GIẢI CHI TIẾT TỪNG CHƯƠNG:
+   - Đi qua TOÀN BỘ các chương trong sách, không bỏ sót chương nào.
+   - Mỗi chương phải có 5 mục rõ ràng:
+     + 1. Bối cảnh & Vấn đề kỹ thuật cần giải quyết.
+     + 2. Kiến trúc giải pháp & Các bước thực hiện (kèm bảng so sánh các công nghệ/thuật toán).
+     + 3. Giải thích cơ chế ngầm và các thuật ngữ mới xuất hiện trong chương.
+     + 4. Những cạm bẫy thường gặp (Pitfalls) và sự đánh đổi (Trade-offs).
+     + 5. Ứng dụng thực tế: "Lập trình viên áp dụng kiến thức này vào dự án công ty thế nào?".
+
+3. PHẦN III - PLAYBOOK THỰC CHIẾN CHO KỸ SƯ PHẦN MỀM:
+   - Đúc kết 10-12 nguyên tắc vàng rút ra từ cuốn sách áp dụng cho dự án doanh nghiệp.
+   - Bảng Ma trận lựa chọn công nghệ (Technology Decision Matrix) phù hợp với từng bài toán.
+   - Bảng Checklist an toàn (Go-Live Checklist) trước khi đưa hệ thống lên Production.
+
+4. ĐỊNH DẠNG FILE WORD (.DOCX) CHUYÊN NGHIỆP:
+   - Sử dụng font Segoe UI hoặc Arial, cỡ chữ 11pt, giãn dòng 1.15.
+   - Tiêu đề dùng màu xanh Navy (#1F4E79), có phân cấp Heading 1, 2, 3 rõ ràng.
+   - Dùng các hộp ghi chú (Callout boxes) có màu nền phân biệt giữa: Lý thuyết, Ví dụ đời thực, và Kinh nghiệm thực chiến.
+   - Bảng biểu có viền sắc nét, tiêu đề bảng màu tối chữ trắng. Tự động đánh số trang ở chân trang (Footer).
+
+Hãy tiến hành đọc file và tự động tạo file Word ngay lập tức giúp tôi!
+
+
